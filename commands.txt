@@ -1,0 +1,3 @@
+clone-exact copy 
+push-local repository 
+pull-remote repository
