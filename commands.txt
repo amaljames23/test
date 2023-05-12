@@ -1,3 +1,5 @@
 clone-exact copy 
 push-local repository 
 pull-remote repository
+git-add -A(local -staging area)
+git commit -m "meassage" 
