@@ -1,5 +1,6 @@
 clone-exact copy 
 push-local repository 
 pull-remote repositpio
+get init
 git add -A(local storage-staging area)
 git commit -m "hi"
